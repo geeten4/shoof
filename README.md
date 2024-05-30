@@ -5,6 +5,7 @@ https://en.wikipedia.org/wiki/Schoof%27s_algorithm
 Works for finite fields of prime power order not of characteristic 2 and 3
 
 Written in SageMath v. 9.0
+
 to compile from Sage to python, use
 
 `
